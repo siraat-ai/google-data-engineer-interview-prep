@@ -1,11 +1,3 @@
-Great outline — this will make a **very clean GitHub repo** if structured properly. I’ll give you:
-
-✅ **GitHub-friendly `.md` file names (clean + readable)**
-✅ **Folder structure (recommended)**
-✅ **Each chapter → one file (best practice)**
-
----
-
 # 📂 Recommended GitHub Structure
 
 ```bash
