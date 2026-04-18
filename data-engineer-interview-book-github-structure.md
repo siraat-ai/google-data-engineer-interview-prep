@@ -171,15 +171,7 @@ Create a strong landing page 👇
 
 ---
 
-# ⚡ Pro GitHub Tips (Important)
 
-### ✅ Naming Rules
-
-* Use **lowercase**
-* Use **hyphens (-)** not spaces
-* Add **numbers for order**
-
----
 
 ### ✅ Why This Structure Works
 
@@ -190,12 +182,4 @@ Create a strong landing page 👇
 
 ---
 
-# 🚀 If You Want Next Level
 
-I can also:
-
-* Create **template for each `.md` file**
-* Add **ready content (interview-level explanations)**
-* Design **GitHub portfolio README like top engineers**
-
-Just tell me 👍
