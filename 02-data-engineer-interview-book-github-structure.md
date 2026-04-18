@@ -1,4 +1,4 @@
-# 📂 Recommended GitHub Structure
+# 📂 GitHub Structure
 
 ```bash
 data-engineer-interview-book/
